@@ -10,6 +10,7 @@ This plugin also allows for a custom message to be entered that will display bel
 
 > GitHub Repository: https://github.com/taylornmount/mybb-content-restricted-age-verification
 
+
 ![Preview: Default](https://community.mybb.com/uploads/mods/previews/preview_127137_1656541485_f2d827a5f078672887cb59f64b1cecd9.png)
 
 ![Preview: With Custom Message](https://community.mybb.com/uploads/mods/previews/preview_127137_1656541503_6f6f6ecf99efd9c1385d54e3acde84e7.png)
