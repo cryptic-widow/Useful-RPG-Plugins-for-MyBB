@@ -15,6 +15,6 @@ This plugin also allows for a custom message to be entered that will display bel
 
 ![Preview: With Custom Message](https://community.mybb.com/uploads/mods/previews/preview_127137_1656541503_6f6f6ecf99efd9c1385d54e3acde84e7.png)
 
-![Preview: Admin CP Settings](https://community.mybb.com/uploads/mods/previews/preview_127137_1656541493_cde457431988cabd9945c8b24ba4af39.png)
-
 ![Preview: User Blocked](https://community.mybb.com/uploads/mods/previews/preview_127137_1656541509_ffcc99bed62172f6559cb3321c93e37c.png)
+
+![Preview: Admin CP Settings](https://community.mybb.com/uploads/mods/previews/preview_127137_1656541493_cde457431988cabd9945c8b24ba4af39.png)
