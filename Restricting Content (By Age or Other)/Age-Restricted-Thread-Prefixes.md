@@ -14,4 +14,4 @@ Restrict young users from viewing or posting threads with a certain prefix.
 
 > https://community.mybb.com/mods.php?action=view&pid=589
 
-![Preview of Age Restricted Thread Prefixes]([https://myoctocat.com/assets/images/base-octocat.svg](https://community.mybb.com/uploads/mods/previews/preview_63966_1442091157_0e8323484556f824d7e7d0e5470cbadc.png)https://community.mybb.com/uploads/mods/previews/preview_63966_1442091157_0e8323484556f824d7e7d0e5470cbadc.png)
+![Preview of Age Restricted Thread Prefixes](https://community.mybb.com/uploads/mods/previews/preview_63966_1442091157_0e8323484556f824d7e7d0e5470cbadc.png)
