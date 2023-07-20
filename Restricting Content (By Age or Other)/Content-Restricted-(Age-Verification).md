@@ -7,6 +7,7 @@ Age is stored as a cookie on the users local machine which means it is not store
 This plugin also allows for a custom message to be entered that will display below the age collection table. Here you can describe why you have an age gate or any other details you wish, this is not required for the plugin to work though.
 
 > MyBB Mods Entry: https://community.mybb.com/mods.php?action=view&pid=1516
+
 > GitHub Repository: https://github.com/taylornmount/mybb-content-restricted-age-verification
 
 ![Preview: Default](https://community.mybb.com/uploads/mods/previews/preview_127137_1656541485_f2d827a5f078672887cb59f64b1cecd9.png)
