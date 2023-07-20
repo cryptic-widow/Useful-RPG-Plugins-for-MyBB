@@ -1,5 +1,5 @@
 # Useful-RPG-Plugins-for-MyBB
-A collection of plugins found across the interwebs, most free, for those using MyBB software for their play-by-post forum rp games.
+A collection of plugins found across the interwebs, most free (non free will be indicated by $ in the title), for those using MyBB software for their play-by-post forum rp games.
 
 ## Help Grow This List
 If you've found some useful plugins that made your RP admin life easier please reach out to me on Discord so that I can add them to this repository. Share the love and knowledge you have with others!
